@@ -39,11 +39,13 @@
 | 机场 | 线路 | 稳定性 | 流媒体 | 价格 | 适合谁 |
 |------|------|--------|--------|------|-------|
 | [自由猫 Freecat ⭐](airport-reviews/README.md#1-自由猫-freecat--) | IEPL专线 | ⭐⭐⭐⭐⭐ | ✅全解锁 | ¥35+/月 | 生产力主力首选 |
-| [WgetCloud](airport-reviews/README.md#2-wgetcloud) | CN2 GIA | ⭐⭐⭐⭐ | ✅主流 | ¥25+/月 | 游戏/低延迟 |
+| [WgetCloud ⚠️](airport-reviews/README.md#2-wgetcloud) | CN2 GIA | ⭐⭐⭐⭐ | ✅主流 | ¥25+/月 | 游戏/低延迟 |
 | [贝贝云](airport-reviews/README.md#3-贝贝云) | 中转 | ⭐⭐ | ❌差 | ¥10/月 | 入门备用 |
 | [悠兔](airport-reviews/README.md#4-悠兔) | 中转+专线 | ⭐⭐⭐ | ⚠️一般 | ¥15+/月 | 多地区覆盖 |
 
-*[查看全部7个机场评测 →](airport-reviews/README.md)*
+*[查看全部7个机场评测 →](airport-reviews/README.md)* | *[按场景选机场 →](getting-started/how-to-choose.md)* | *[购买教程 →](getting-started/purchase-guide.md)*
+
+> ⚠️ WgetCloud 当前检测异常（超时），建议注册后先测试再充值
 
 ### 🛠️ 自建梯子
 
